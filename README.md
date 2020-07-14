@@ -7,7 +7,8 @@ There are some little features: you have only three errors avaible, the screen r
 
 To play the game, download the source code; on Linux, type the following command:
 <code>g++ arithmetic_remake.cpp</code>
-And to play everytime:
+
+And to play everytime you want:
 <code>./a.out</code>
 
 Enjoy!
